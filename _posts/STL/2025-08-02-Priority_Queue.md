@@ -1,3 +1,10 @@
+---
+layout: post
+title: "优先队列"
+categories: STL
+date: 2025-08-15   # 模板创建/更新日期
+description: "优先队列"
+---
 🚀 优先队列（Priority Queue）详解
 
 优先队列是算法竞赛中的核心数据结构，尤其在需要高效处理动态极值的场景中至关重要。下面从多个维度全面解析优先队列：
