@@ -6,7 +6,7 @@ layout: home
 
 ## 分类导航
 - [洛谷题解](/luogu)
-- [Codeforces题解](/codeforces)
-- [AtCoder题解](/atcoder)
-- [STL笔记](/stl)
-- [其他](/others)
+- [Codeforces题解](/Codeforces)
+- [AtCoder题解](/Atcoder)
+- [STL笔记](/STL)
+- [其他](/Others)
