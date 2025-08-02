@@ -1,17 +1,19 @@
 ---
 layout: archive
 title: "Atcoder题解"
-permalink: /Atcoder/  # 注意首字母大写
-category: Atcoder     # 与文件夹名完全一致
+permalink: /Atcoder/
 ---
 
-<h2>题解列表</h2>
+<h2>📊 统计信息</h2>
+<p><strong>总题解篇数</strong>: {% raw %}{{ site.categories.Atcoder | size }}{% endraw %}</p>
+
+<h2>📝 题解列表</h2>
 
 <ul>
-  {% for post in site.categories.Atcoder %}
+  {% raw %}{% for post in site.categories.Atcoder %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       ({{ post.date | date: "%Y-%m-%d" }})
     </li>
-  {% endfor %}
+  {% endfor %}{% endraw %}
 </ul>
