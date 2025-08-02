@@ -3,7 +3,7 @@ layout: post
 title: "优先队列"
 categories: STL
 date: 2025-08-02   # 模板创建/更新日期
-description: "优先队列"
+description: "一些关于优先队列的讲解"
 ---
 🚀 优先队列（Priority Queue）详解
 
