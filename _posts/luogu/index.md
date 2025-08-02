@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "洛谷题解"
-permalink: /Luogu/
-category: Luogu
+permalink: /luogu/
+category: luogu
 ---
